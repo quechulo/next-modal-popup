@@ -1,0 +1,6 @@
+.tooltip {
+    position: absolute;
+    transform: translate(100%, -2em);
+    background-color: #f0f33f;
+    z-index: 1000;
+}
